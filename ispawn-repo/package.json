@@ -1,0 +1,13 @@
+{
+  "name": "ispawn",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Autonomous AI agent that scans narratives and launches tokens on pump.fun",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@pump-fun/agent-payments-sdk": "^3.0.2",
+    "@solana/web3.js": "^1.98.0"
+  }
+}

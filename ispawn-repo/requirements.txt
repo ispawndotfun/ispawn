@@ -1,0 +1,4 @@
+paramiko>=3.0
+solders>=0.21
+requests>=2.31
+Pillow>=10.0
